@@ -21,6 +21,8 @@
 - clave,1616
 - limite,7000 (limite de retiro)
 
+--------------------
+### Funcionalidad base 
 
 * El programa deberá validar el cliente, solicitando el numero de cuenta y el nip para realizar las transacciones (Retiro).
 
