@@ -1,5 +1,7 @@
-Elaborar un programa que permita simular el funcionamiento de un cajero automático, el programa
-deberá leer 3 archivos de texto, los cuales son los siguientes:
+# Prueba Cajero
+==========
+> Elaborar un programa que permita simular el funcionamiento de un cajero automático, el programa deberá leer 3 archivos de texto, los cuales son los siguientes:
+--------------------
 clientes.txt (cuenta,cliente,nip,saldo)
 1,luis,1234,7000
 2,maria,1234,5000
